@@ -9,7 +9,7 @@
 ## Demo Video
 
 <video width="640" height="360" controls>
-  <source src="/src/images/AlemenoFInal.mp4" type="video/mp4">
+  <source src="/AlemenoFInal.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -17,4 +17,4 @@ Check out this video demonstration of our application in action.
 
 ## State Management
 
-![Redux State Management ](./src/images/redux_state.png)
+![Redux State Management ](/redux_state.png)
