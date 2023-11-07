@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-Here is the Live Website [Website](https://github.com/facebook/create-react-app).
+<!-- Here is the Live Website [Website](https://github.com/facebook/create-react-app). -->
 
 ## How to Run the Project
 
