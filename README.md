@@ -17,4 +17,4 @@ Check out this video demonstration of our application in action.
 
 ## State Management
 
-![Redux State Management ](/redux_state.png)
+![Redux State Management ](./redux_state.png)
