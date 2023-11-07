@@ -8,13 +8,8 @@
 
 ## Demo Video
 
-<video width="640" height="360" controls>
-  <source src="/AlemenoFInal.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-Check out this video demonstration of our application in action.
+Here is the Demo Video [Video](https://drive.google.com/file/d/15DarPUnawOOBiJFGcjDvO9gWTs7LvOUX/view?usp=sharing).
 
 ## State Management
 
-![Redux State Management ](./redux_state.png)
+Check the State Management [Redux](https://drive.google.com/file/d/1N7XLqrpKfzu7MkKOwbovNPTR7xvLLUdZ/view?usp=sharing).
